@@ -1,1 +1,0 @@
-pyinstaller -F OpenRandomPeople_en.py
